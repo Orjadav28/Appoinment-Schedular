@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\appointmnet schdeular.props" />
+</Project>
